@@ -9,6 +9,7 @@ int main(){
     cin>>n;
 
     vector<ll> v;
+    
 
      ll t;
     while(n>0){
